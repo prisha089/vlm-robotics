@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# project
+data/
+.env
+*.gguf
+*.safetensors
+*.pt
+*.bin
+results/raw/
+.DS_Store
